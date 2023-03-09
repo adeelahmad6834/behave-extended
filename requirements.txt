@@ -1,0 +1,9 @@
+pylint
+behave
+requests
+requests_oauthlib
+xvfbwrapper
+oauthlib
+pyOpenSSL
+selenium
+allure-behave
